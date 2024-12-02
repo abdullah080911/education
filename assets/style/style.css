@@ -1,0 +1,69 @@
+.carousal-caption{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+   
+    }
+    hero-section{
+        position: relative;
+    }
+    .inner-layer {
+        background-color: rgba(0, 0, 0, 0.7);
+      height: 100%;
+      width: 100%;
+      position: absolute;
+      top: 0%;
+    }
+    .primary-navbar{
+      border-bottom: 1px solid rgb(235, 227, 227);
+    }
+    .carousel-caption{
+      top: 40%;
+    }
+    .flat-img{
+      display: flex;
+      list-style: none;
+     
+    }
+    .flat-img li{
+      margin: 2px;
+    }
+    .card{
+      border: 0px;
+    }
+    .card-body .flat-img{
+      margin-bottom: 0%;
+    }
+    .reviw-stars{
+      display: flex;
+      list-style-type: none;
+    }
+    .stars i{
+      color: #ffaa30;
+    }
+    .meta-cources{
+      list-style-type: none;
+      display: flex;
+      
+    }
+    .dates span{
+display: block;
+ }
+.dates{
+  border: 2px solid #ffaa30;
+}  
+.slider{
+  display: flex;
+  list-style-type: none;
+}  
+.slider li{
+  margin: 45px;
+ 
+  
+} 
+
+
+    
+    
